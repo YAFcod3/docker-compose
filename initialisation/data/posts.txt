@@ -1,0 +1,24 @@
+5599e33f-886f-4241-a69d-6935b5ee4a15	2023-01-08	fd998c39-229a-4e02-937f-32d3a9bcdf72	USA	California	Los Angeles	\N	2023-03-01	Cuba	Artemisa	Bahía Honda	\N	2023-03-01	2023-02-26	31	14	19,8	0	1	#VALUE!	Tv
+3269efb6-c208-4509-9f0c-14c0c4474619	2023-01-13	f3fdf30b-42fb-471f-b445-feab5f1591f0	FRANCE	Île-de-France	Hauts-de-Seine	\N	2023-02-22	Cuba	Cienfuegos	Palmira	\N	2023-02-22	2023-02-20	41	11	14,6	1	1	0	Tv
+7d334600-663d-420d-a11f-e11fde3d54b0	2023-02-08	5f58def2-f70a-4e82-ba2d-cf9eb111ec1d	ESPAÑA	Cataluña	Girona	\N	2023-02-18	Cuba	Granma	Bayamo	\N	2023-02-18	2023-02-15	2	1	16,2	1	0	1	Planta Electrica
+57bdfbe3-9fc0-480a-ab65-53f0eb19b6ac	2022-11-11	588cfe2e-c840-46a2-b23f-aa3fcacb90d2	FRANCE	Provence-Alpes	Bouches-du-Rhône	\N	2023-02-18	Cuba	Holguín	Cueto	\N	2023-02-18	2023-02-17	99	45	13,6	1	0	0	\N
+db9f9ae3-ed06-419f-902a-a361110f1dad	2022-11-20	066e5bc4-6d7f-4007-99e0-19a5fe489307	ESPAÑA	Andalucía	Málaga	\N	2023-02-23	Cuba	Las Tunas	Colombia	\N	2023-02-24	2023-02-22	116	112	13,4	0	1	1	Tv
+e43a14d2-da83-4aa3-a272-4c1d0bf55d39	2022-12-29	6d9536d9-3449-4b49-9adc-882e653eb47e	USA	Texas	Harris	\N	2023-02-22	Cuba	Pinar del Río	Sandino	\N	2023-02-22	2023-02-21	104	25	15,1	1	1	1	Tv
+d5093f1e-b78c-42dd-9579-e8a4f4195876	2023-01-22	bfb45703-7dea-446c-8374-6e8a1304d2b5	FRANCE	Pays de la Loire	Loire-Atlantique	\N	2023-02-21	Cuba	Camagüey	Guáimaro	\N	2023-02-21	2023-02-21	118	7	12	1	0	0	\N
+92555717-ae54-4244-9812-73e5f95ee147	2022-11-18	0816edcc-8d34-41a7-9bac-ab8f75b0a62e	ESPAÑA	Aragón	Huesca	\N	2023-02-25	Cuba	Granma	Río Cauto	\N	2023-02-25	2023-02-24	59	11	12,4	0	0	0	\N
+7e37ba82-bf1b-427f-b1e7-b2dcb1acd916	2022-12-29	af2b35ba-da3e-42b1-902a-dfa86cbb878e	USA	Massachusetts	Middlesex	\N	2023-02-28	Cuba	Artemisa	Alquízar	\N	2023-03-01	2023-02-26	66	42	12,1	0	1	2	Planta Electrica
+7c3e31cf-ad18-44e9-8d8d-fb2181f1d90f	2022-12-25	cd87ad79-1aac-43e3-8d72-0dd46df1a8ff	FRANCE	Nouvelle-Aquitaine	Gironde	\N	2023-03-02	Cuba	Pinar del Río	San Luis	\N	2023-03-03	2023-02-28	114	82	14,9	0	1	1	Laptop
+fc78afb6-f5e1-46df-8144-be3e1a11cb91	2022-12-09	824b5374-fd5f-40ba-8f3e-fb18a3de4787	ESPAÑA	Comunidad Valenciana	Castellón	\N	2023-02-26	Cuba	Mayabeque	Güines	\N	2023-02-26	2023-02-26	17	16	19,4	0	0	0	Tv
+de012bae-e0c1-4785-8919-2e8282852261	2023-02-09	10f0a791-f135-4d1a-bf90-dccd7cfe98c5	FRANCE	Bretagne	Ille-et-Vilaine	\N	2023-02-24	Cuba	Las Tunas	Majibacoa	\N	2023-02-25	2023-02-22	29	13	13,1	1	0	0	\N
+9af5a893-e652-4526-a13f-0ac939858131	2022-11-20	22e4263e-fdf2-4ddd-95f1-88976b338959	USA	Michigan	Wayne	\N	2023-02-23	Cuba	Santiago de Cuba	Palma Soriano	\N	2023-02-23	2023-02-20	9	6	12,1	1	0	0	Tv
+8bb94670-ff03-4453-8559-511b4ef7d2fa	2022-11-20	06cd675d-a8e6-4856-8419-dc06d73c1b04	FRANCE	Occitanie	Hérault	\N	2023-02-20	Cuba	Villa Clara	Sagua la Grande	\N	2023-02-21	2023-02-18	114	82	12,5	1	0	0	\N
+acd0c87d-cbf8-4c6e-b76d-05db56d4d6f8	2022-11-23	d101a3b4-27ac-4d5b-801e-12cd6f461340	USA	New Jersey	Essex	\N	2023-03-08	Cuba	Granma	Jiguaní	\N	2023-03-09	2023-03-08	79	76	17,7	1	0	1	Tablet
+4bbda0bb-65cb-4056-bf50-52b3b1c586e4	2023-02-12	8efb782b-bf53-4214-8f28-35d59ee46184	FRANCE	Normandie	Seine-Maritime	\N	2023-03-01	Cuba	Matanzas	Limonar	\N	2023-03-01	2023-02-27	1	1	13,8	1	0	1	Tv
+97c8fc6b-c1a0-4e72-bd55-b4b316c5d22f	2022-11-21	355c8d61-cee4-4534-992d-f198143fbf71	ESPAÑA	Castilla y León	Ávila	\N	2023-03-04	Cuba	Mayabeque	Quivicán	\N	2023-03-04	2023-03-04	85	80	19,7	1	0	0	\N
+8b38dea3-3dee-4eee-a504-f3462e8ce1db	2022-11-30	dde71892-96ea-42b4-8353-930f88dc1a5e	USA	Washington	King	\N	2023-03-02	Cuba	Holguín	Báguanos	\N	2023-03-03	2023-03-01	90	82	19	0	1	1	Tablet
+f5d7346e-a532-4ed2-a233-9c436877591a	2023-02-07	1925f52d-a2b1-4435-b657-558d04d49be2	FRANCE	País Vasco	Guipúzcoa	\N	2023-02-20	Cuba	Sancti Spíritus	Cabaiguán	\N	2023-02-20	2023-02-18	54	49	18,4	0	1	2	Laptop
+dbd9c745-2511-47c4-8e59-306ad9b3acfb	2022-11-12	7906de4e-6980-4476-bbca-62fef50c14ec	ESPAÑA	Comunidad de Madrid	Getafe	\N	2023-03-02	Cuba	Villa Clara	Placetas	\N	2023-03-02	2023-03-01	93	34	17,8	0	0	0	\N
+2c560bc7-5a70-41f8-9edf-eb75baeb0115	2022-12-07	e39f648f-0e56-4de8-85b7-f60d31197749	FRANCE	Auvergne-Rhône-Alpes	Haute-Loire	\N	2023-03-08	Cuba	Pinar del Río	Consolación del Sur	\N	2023-03-09	2023-03-06	23	9	18,4	1	1	1	Planta Electrica
+02503512-bfc9-4841-b87c-aba8623497da	2022-12-08	b83839fe-7ee0-47be-a71e-4d5fbc208a43	ESPAÑA	Castilla-La Mancha	Guadalajara	\N	2023-02-18	Cuba	Matanzas	Martí	\N	2023-02-19	2023-02-15	104	92	14,6	1	1	3	Tablet
+144edf7f-230f-437f-98b6-59eed5550c26	2023-01-03	0d701270-5c26-4aa4-b292-88ea6f091723	USA	California	San Joaquin	\N	2023-03-01	Cuba	Santiago de Cuba	Contramaestre	\N	2023-03-02	2023-02-28	32	14	19	1	1	2	Tablet
+0d16e28f-86b5-4060-bdd3-6b94e8710044	2022-11-24	1da87d0a-32e4-40ed-b8a6-d0477413e057	ESPAÑA	Navarra	Estella-Lizarra	\N	2023-02-19	Cuba	La Habana	Marianao	\N	2023-02-20	2023-02-19	30	24	12,4	0	0	0	\N
